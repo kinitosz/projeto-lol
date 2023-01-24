@@ -45,10 +45,6 @@ body{
     padding: 0 30px 30px;
 }
 
-.container .lol{
-    width: 450px;
-}
-
 .container .informacoes .imagem-titulo{
     max-width: 500px;
 }
@@ -58,6 +54,10 @@ body{
     width: 85%;
     font-size: 18px;
     margin: 30px 0;
+}
+
+.container .lol{
+    width: 450px;
 }
 
 .container .botao-trailer{
